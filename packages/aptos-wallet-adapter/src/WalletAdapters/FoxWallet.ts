@@ -68,7 +68,7 @@ export class FoxWalletAdapter extends BaseWalletAdapter {
   url = 'https://foxwallet.com';
 
   icon =
-    'https://hc.foxwallet.com/assets/files/FoxWallet-logo-v4-9d2b5eec06bdd619c8678a8052dfc8da.svg';
+    'https://hc.foxwallet.com/assets/files/FoxWallet-logo-976d5ab2d790ac1b34faff49589007f8.svg';
 
   protected _provider: IFoxWallet | undefined;
 
